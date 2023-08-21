@@ -1,0 +1,7 @@
+../Src/pv_st_f411.c:52:16:pv_get_uuid	1
+../Src/pv_st_f411.c:56:16:pv_get_uuid_size	1
+../Src/pv_st_f411.c:60:13:pv_board_init	4
+../Src/pv_st_f411.c:77:6:pv_board_deinit	1
+../Src/pv_st_f411.c:80:6:pv_error_handler	1
+../Src/pv_st_f411.c:86:6:assert_failed	1
+../Src/pv_st_f411.c:92:5:__io_putchar	5
